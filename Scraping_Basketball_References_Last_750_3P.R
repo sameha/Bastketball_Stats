@@ -1,7 +1,7 @@
 ##############################
-      title: "Scraping Basketball References for last 750 3-Point Attemtps"
-      author: "Sameh Awaida"
-      date: "7/6/2017"
+#      title: "Scraping Basketball References for last 750 3-Point Attemtps"
+#      author: "Sameh Awaida"
+#      date: "7/6/2017"
 ##############################
       
 library(XML)
